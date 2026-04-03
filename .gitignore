@@ -10,7 +10,6 @@ test_files/
 *.ods#
 *.ppm
 tmp
-*.json
 infile*
 outfile*
 cache/
