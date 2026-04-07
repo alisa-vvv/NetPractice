@@ -18,3 +18,6 @@ https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-mod
 
 Explanation of CIDR:<br>
 https://www.geeksforgeeks.org/computer-networks/classless-inter-domain-routing-cidr/<br>
+
+Explanation of Switches:<br>
+https://www.networkacademy.io/ccna/network-fundamentals/routers-layer3-switches<br>
