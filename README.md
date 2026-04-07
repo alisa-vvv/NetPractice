@@ -21,3 +21,6 @@ https://www.geeksforgeeks.org/computer-networks/classless-inter-domain-routing-c
 
 Explanation of Switches:<br>
 https://www.networkacademy.io/ccna/network-fundamentals/routers-layer3-switches<br>
+
+IPv4 Classes:<br>
+https://docs.oracle.com/cd/E19504-01/802-5753/planning3-78185/index.html
