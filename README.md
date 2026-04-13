@@ -1,6 +1,6 @@
 *This project has been created as part of the 42 curriculum by avaliull*<br>
 
-#DESCRIPTION:<br>
+<span style="color:yellow">#DESCRIPTION:</span><br>
 NetPractice is a project designed to introduce the basics of networking. It presents a set of 10 "levels" that depict fictional networks in the form of an interactive puzzle. The student has to configure the networks based on the information given by each level. Doing so requires a basic understanding of IP adressing, and the functionality of fundamental network components, namely, routers, switches, and hosts.<br>
 
 #INSTRUCTIONS:<br>
