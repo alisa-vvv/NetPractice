@@ -1,9 +1,9 @@
 *This project has been created as part of the 42 curriculum by avaliull*<br>
 
-<span style="color:yellow">#DESCRIPTION:</span><br>
+# Description:
 NetPractice is a project designed to introduce the basics of networking. It presents a set of 10 "levels" that depict fictional networks in the form of an interactive puzzle. The student has to configure the networks based on the information given by each level. Doing so requires a basic understanding of IP adressing, and the functionality of fundamental network components, namely, routers, switches, and hosts.<br>
 
-# INSTRUCTIONS:<br>
+# Instructions:
 The project contains 10 configurations for the 10 different levels in .json format. Evaluation is performed by running the net_practice testing script, which will randomize 3 levels from 6-10, and have to be solved by the student in 15 minutes.<br>
 The evaluation script is not a part of the git repository. It can be downloaded from the evaluation page in a *net_practice.tgz* file. Here are the steps to run it:<br>
 1. Download the net_practice.tgz file from the link provided by the evaluation sheet.
@@ -15,8 +15,7 @@ The evaluator should chose option 2 and start the 15 minute timer. The evaluatee
 4. levelX.html files can also be opened individually.
 
 
-# RESOURCES:
-<br>
+# Resources:
 
 A simple explanation of ipv4 addresses:<br>
 https://whatismyipaddress.com/ipv4-parts<br>
