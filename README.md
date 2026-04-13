@@ -4,7 +4,7 @@
 NetPractice is a project designed to introduce the basics of networking. It presents a set of 10 "levels" that depict fictional networks in the form of an interactive puzzle. The student has to configure the networks based on the information given by each level. Doing so requires a basic understanding of IP adressing, and the functionality of fundamental network components, namely, routers, switches, and hosts.<br>
 <details>
     <summary>Example of a NetPractice level</summary>
-    ![Level 10](readme_example_level.png)
+    <img width="1633" height="1852" alt="readme_example_level" src="https://github.com/user-attachments/assets/82a64276-ae17-4620-940d-6986efe9a792" />
     </details>
 
 # Instructions:
